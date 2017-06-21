@@ -1,0 +1,11 @@
+D:\krist\Documents\Portfolio Projects\Visual Studio\BMI Solution\BMI Project\bin\Debug\BMI Project.exe.config
+D:\krist\Documents\Portfolio Projects\Visual Studio\BMI Solution\BMI Project\bin\Debug\BMI Project.exe
+D:\krist\Documents\Portfolio Projects\Visual Studio\BMI Solution\BMI Project\bin\Debug\BMI Project.pdb
+D:\krist\Documents\Portfolio Projects\Visual Studio\BMI Solution\BMI Project\bin\Debug\BMI Project.xml
+D:\krist\Documents\Portfolio Projects\Visual Studio\BMI Solution\BMI Project\obj\Debug\BMI Project.vbprojResolveAssemblyReference.cache
+D:\krist\Documents\Portfolio Projects\Visual Studio\BMI Solution\BMI Project\obj\Debug\BMI_Project.MainForm.resources
+D:\krist\Documents\Portfolio Projects\Visual Studio\BMI Solution\BMI Project\obj\Debug\BMI_Project.Resources.resources
+D:\krist\Documents\Portfolio Projects\Visual Studio\BMI Solution\BMI Project\obj\Debug\BMI Project.vbproj.GenerateResource.Cache
+D:\krist\Documents\Portfolio Projects\Visual Studio\BMI Solution\BMI Project\obj\Debug\BMI Project.exe
+D:\krist\Documents\Portfolio Projects\Visual Studio\BMI Solution\BMI Project\obj\Debug\BMI Project.xml
+D:\krist\Documents\Portfolio Projects\Visual Studio\BMI Solution\BMI Project\obj\Debug\BMI Project.pdb
