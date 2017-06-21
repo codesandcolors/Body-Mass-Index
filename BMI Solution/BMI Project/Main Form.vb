@@ -82,6 +82,7 @@ Public Class MainForm
             statusLabel.ForeColor = Color.Red
         ElseIf bmi >= 18.5 AndAlso bmi <= 24.9 Then
             statusLabel.Text = "Normal"
+            statusLabel.ForeColor = Color.CadetBlue
         ElseIf bmi >= 25 And bmi <= 29.9 Then
             statusLabel.Text = "Overweight"
             statusLabel.ForeColor = Color.Orange
